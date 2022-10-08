@@ -1,0 +1,49 @@
+ID;Planta;Derrame;Grupo experiencia;Grupo hora;Sentido;Escolaridad;IMC grupo;Rango etario2;Grupo exp cam
+1;Planta Antofagasta;Con derrame;A. <5;A. D¡a;Ida;F. Profesional;E. Obesidad III;B. 30-44;B. 5-14
+2;Planta Antofagasta;Con derrame;A. <5;A. D¡a;Ida;F. Profesional;C. Obesidad I;B. 30-44;C. 15-25
+27;Planta Caldera;Con derrame;A. <5;A. D¡a;Ida;F. Profesional;A. Normal;C. 45-54;C. 15-25
+50;Planta Chill n;Con derrame;A. <5;A. D¡a;Ida;E. T‚cnica;A. Normal;B. 30-44;C. 15-25
+51;Planta Chill n;Con derrame;B. 5-14;A. D¡a;Ida;s/d;s/d;C. 45-54;C. 15-25
+93;Planta Conc¢n;Con derrame;B. 5-14;A. D¡a;Ida;D. Ense¤anza media;A. Normal;C. 45-54;C. 15-25
+162;Planta Iquique;Con derrame;A. <5;A. D¡a;Ida;D. Ense¤anza media;A. Normal;B. 30-44;B. 5-14
+163;Planta Iquique;Con derrame;A. <5;A. D¡a;Ida;E. T‚cnica;A. Normal;B. 30-44;B. 5-14
+164;Planta Iquique;Con derrame;A. <5;A. D¡a;Ida;E. T‚cnica;C. Obesidad I;B. 30-44;B. 5-14
+165;Planta Iquique;Con derrame;A. <5;A. D¡a;Ida;E. T‚cnica;C. Obesidad I;B. 30-44;B. 5-14
+166;Planta Iquique;Con derrame;A. <5;A. D¡a;Ida;F. Profesional;C. Obesidad I;B. 30-44;B. 5-14
+167;Planta Iquique;Con derrame;A. <5;A. D¡a;Ida;F. Profesional;D. Obesidad II;B. 30-44;B. 5-14
+168;Planta Iquique;Con derrame;B. 5-14;A. D¡a;Ida;E. T‚cnica;C. Obesidad I;B. 30-44;B. 5-14
+169;Planta Iquique;Con derrame;A. <5;A. D¡a;Ida;F. Profesional;E. Obesidad III;C. 45-54;C. 15-25
+170;Planta Iquique;Con derrame;B. 5-14;A. D¡a;Ida;F. Profesional;E. Obesidad III;C. 45-54;B. 5-14
+243;Planta Mejillones;Con derrame;A. <5;A. D¡a;Ida;D. Ense¤anza media;s/d;B. 30-44;B. 5-14
+244;Planta Mejillones;Con derrame;A. <5;A. D¡a;Ida;s/d;s/d;B. 30-44;B. 5-14
+245;Planta Mejillones;Con derrame;B. 5-14;A. D¡a;Ida;D. Ense¤anza media;B. Sobrepeso;B. 30-44;C. 15-25
+246;Planta Mejillones;Con derrame;C. 15-25;A. D¡a;Ida;D. Ense¤anza media;B. Sobrepeso;C. 45-54;A. <5
+307;Planta Pureo;Con derrame;A. <5;A. D¡a;Regreso;D. Ense¤anza media;C. Obesidad I;C. 45-54;C. 15-25
+348;Planta San Vicente;Con derrame;B. 5-14;A. D¡a;Ida;D. Ense¤anza media;E. Obesidad III;C. 45-54;D. >25
+349;Planta San Vicente;Con derrame;C. 15-25;A. D¡a;Ida;D. Ense¤anza media;B. Sobrepeso;D. 55-65;B. 5-14
+69;Planta Chill n;Con derrame;B. 5-14;B. Tarde noche;Ida;D. Ense¤anza media;s/d;B. 30-44;C. 15-25
+155;Planta Guayac n;Con derrame;A. <5;B. Tarde noche;Ida;D. Ense¤anza media;B. Sobrepeso;B. 30-44;B. 5-14
+156;Planta Guayac n;Con derrame;B. 5-14;B. Tarde noche;Ida;D. Ense¤anza media;C. Obesidad I;C. 45-54;C. 15-25
+267;Planta Mejillones;Con derrame;A. <5;B. Tarde noche;Ida;D. Ense¤anza media;C. Obesidad I;B. 30-44;D. >25
+335;Planta San Fernando;Con derrame;B. 5-14;B. Tarde noche;Ida;D. Ense¤anza media;C. Obesidad I;C. 45-54;B. 5-14
+363;Planta San Vicente;Con derrame;A. <5;B. Tarde noche;Ida;D. Ense¤anza media;A. Normal;B. 30-44;C. 15-25
+15;Planta Antofagasta;Con derrame;A. <5;C. Madrugada;Ida;F. Profesional;C. Obesidad I;B. 30-44;B. 5-14
+16;Planta Antofagasta;Con derrame;A. <5;C. Madrugada;Ida;F. Profesional;A. Normal;C. 45-54;C. 15-25
+39;Planta Caldera;Con derrame;A. <5;C. Madrugada;Ida;F. Profesional;C. Obesidad I;B. 30-44;B. 5-14
+40;Planta Caldera;Con derrame;A. <5;C. Madrugada;Ida;E. T‚cnica;C. Obesidad I;C. 45-54;B. 5-14
+41;Planta Caldera;Con derrame;B. 5-14;C. Madrugada;Ida;F. Profesional;C. Obesidad I;C. 45-54;C. 15-25
+42;Planta Caldera;Con derrame;C. 15-25;C. Madrugada;Ida;D. Ense¤anza media;C. Obesidad I;D. 55-65;C. 15-25
+43;Planta Caldera;Con derrame;C. 15-25;C. Madrugada;Ida;F. Profesional;C. Obesidad I;E. >65;C. 15-25
+75;Planta Chill n;Con derrame;A. <5;C. Madrugada;Ida;F. Profesional;B. Sobrepeso;B. 30-44;B. 5-14
+76;Planta Chill n;Con derrame;B. 5-14;C. Madrugada;Ida;D. Ense¤anza media;B. Sobrepeso;B. 30-44;B. 5-14
+125;Planta Conc¢n;Con derrame;A. <5;C. Madrugada;Ida;E. T‚cnica;C. Obesidad I;B. 30-44;B. 5-14
+186;Planta Iquique;Con derrame;A. <5;C. Madrugada;Ida;F. Profesional;D. Obesidad II;B. 30-44;C. 15-25
+187;Planta Iquique;Con derrame;A. <5;C. Madrugada;Ida;D. Ense¤anza media;B. Sobrepeso;D. 55-65;C. 15-25
+188;Planta Iquique;Con derrame;B. 5-14;C. Madrugada;Ida;F. Profesional;A. Normal;D. 55-65;C. 15-25
+189;Planta Iquique;Con derrame;C. 15-25;C. Madrugada;ida;D. Ense¤anza media;B. Sobrepeso;D. 55-65;B. 5-14
+271;Planta Mejillones;Con derrame;A. <5;C. Madrugada;Ida;D. Ense¤anza media;B. Sobrepeso;D. 55-65;B. 5-14
+339;Planta San Fernando;Con derrame;B. 5-14;C. Madrugada;Ida;E. T‚cnica;A. Normal;B. 30-44;C. 15-25
+370;Planta San Vicente;Con derrame;A. <5;C. Madrugada;Ida;E. T‚cnica;C. Obesidad I;B. 30-44;B. 5-14
+371;Planta San Vicente;Con derrame;A. <5;C. Madrugada;Ida;F. Profesional;C. Obesidad I;B. 30-44;B. 5-14
+372;Planta San Vicente;Con derrame;B. 5-14;C. Madrugada;Ida;E. T‚cnica;D. Obesidad II;C. 45-54;C. 15-25
+380;Planta San Vicente;Con derrame;A. <5;C. Madrugada;Regreso;D. Ense¤anza media;A. Normal;B. 30-44;B. 5-14
